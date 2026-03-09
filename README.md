@@ -17,12 +17,12 @@ Rather than relying on expensive IoT hardware, the system uses **publicly availa
 
 ## 🎯 Key Features
 
-- ✅ **No IoT sensors required** — fully data-driven using public weather data
-- 📅 **15-year historical dataset** (2010–2024) across multiple Irish counties
-- 🌦️ **Rain-aware skip logic** — optimised for Ireland's high-rainfall, high-variability climate
-- 🤖 **Three ML models compared** — Random Forest, XGBoost, and LSTM
-- 📊 **Explainable recommendations** — SHAP-based feature importance
-- 🗺️ **County-level granularity** — accounts for regional climate differences across Ireland
+-  **No IoT sensors required** — fully data-driven using public weather data
+-  **15-year historical dataset** (2010–2024) across multiple Irish counties
+-  **Rain-aware skip logic** — optimised for Ireland's high-rainfall, high-variability climate
+-  **Three ML models compared** — Random Forest, XGBoost, and LSTM
+-  **Explainable recommendations** — SHAP-based feature importance
+-  **County-level granularity** — accounts for regional climate differences across Ireland
 
 ---
 
@@ -97,7 +97,7 @@ smart-irrigation-ireland/
 
 ---
 
-## 🤖 Models
+##  Models
 
 | Model | Strength | Best For |
 |---|---|---|
@@ -115,11 +115,11 @@ smart-irrigation-ireland/
 
 ## 📈 Key Findings
 
-- 🌡️ Average summer temperatures in Ireland rose by **~0.5–0.8°C** between 2010 and 2024
-- 🌧️ The **2018 drought** saw rainfall drop below 50% of average in eastern counties
-- 📉 Summer rainfall declining while winter rainfall increasing — creating a critical water gap during crop growth stages
-- 🔁 Extreme rainfall days increased from **5/year (2010–2014)** to **9/year (2020–2024)**
-- 🌍 Western counties (Galway, Mayo) average **~1,400 mm/year** vs eastern counties (Dublin) at **~850 mm/year**
+-  Average summer temperatures in Ireland rose by **~0.5–0.8°C** between 2010 and 2024
+-  The **2018 drought** saw rainfall drop below 50% of average in eastern counties
+-  Summer rainfall declining while winter rainfall increasing — creating a critical water gap during crop growth stages
+-  Extreme rainfall days increased from **5/year (2010–2014)** to **9/year (2020–2024)**
+-  Western counties (Galway, Mayo) average **~1,400 mm/year** vs eastern counties (Dublin) at **~850 mm/year**
 
 ---
 
